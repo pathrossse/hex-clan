@@ -1,2 +1,2 @@
 # hex-clan
-nammal pulikal
+
